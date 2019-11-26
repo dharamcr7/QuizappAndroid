@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">DharamProject</string>
+    <string name="question1">1. What is another name of the Council of States?</string>
+    <string name="question2">2. What is another name of the Lok Sabha?</string>
+    <string name="question3">3. The maximum strength (number of members) of the Rajya Sabha?</string>
+    <string name="question4">4. The President can nominate how many members in the Rajya Sabha and Lok Sabha?</string>
+    <string name="question5">5. Who is the ex-officio Chairman of Rajya Sabha ?</string>
+
+</resources>
